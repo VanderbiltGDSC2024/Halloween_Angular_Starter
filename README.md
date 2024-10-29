@@ -1,27 +1,21 @@
-# Halloween
+# Vandy GDSC Workshop 5
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+booooooo
 
-## Development server
+### 10/29/2024
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Who is teaching?
+- Daniel Henricks (Tech Lead)
+- Tech Interns (Vivian and Ashley)
 
-## Code scaffolding
+## What you will learn?
+- Angular is not scary! Angular is a frontend framework that provides tons of cool flexibility
+- The basic design patterns of Angular (component architecture).
+- Using frontend libraries (see [Material Angular](https://material.angular.io/))
+- API calls?
+## What you will accomplish
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Resouces to continue learning:
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1. [One of my Angular projects with some commented code](https://github.com/DanielPHenricks/F1Grid/tree/master/frontend/)
+2. [Ambitious?](https://www.twilio.com/en-us/blog/build-progressive-web-application-django-angular-part-1-backend-api)
