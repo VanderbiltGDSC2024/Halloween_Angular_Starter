@@ -1,0 +1,10 @@
+<div>
+    <h2>{{ title }}</h2>
+    <h4>{{ description === '' ? "No rating" : description}}</h4>
+    <form (ngSubmit)="submitRating()">
+        <label for="newRating">New Candy Rating:</label>
+        <input id="newRating" [(ngModel)]="newRating" name="newRating" required />
+        <button type="submit">Submit</button>
+    </form>
+</div>
+  
